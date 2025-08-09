@@ -157,7 +157,7 @@ not ego
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=120&section=footer&text=Craft%20Your%20Life%20as%20You%20Craft%20Your%20Code&fontSize=24&fontColor=8B4513&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=120&section=footer&text=Craft%20in%20silence%20guided%20by%20reason&fontSize=24&fontColor=8B4513&animation=twinkling" />
 
 ***"Time flies, art endures, life is short"***  
 
