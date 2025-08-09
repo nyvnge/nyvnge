@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/yourusername/yourusername/blob/main/101863068.png" width="200px" alt="Profile Logo" />
+<img src="https://github.com/nyvnge/nyvnge/blob/main/101863068.png" width="200px" alt="Profile Logo" />
 
 # **Sanderson Nyange**
 ### *Stoic • Builder • Thinker*
