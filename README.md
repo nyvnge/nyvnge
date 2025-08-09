@@ -145,10 +145,13 @@ not ego
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=120&section=footer&text=Craft%20in%20silence%20guided%20by%20reason&fontSize=24&fontColor=8B4513&animation=twinkling" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&pause=1000&color=CD853F&center=true&vCenter=true&width=700&lines=Craft+in+silence+guided+by+reason" alt="Imperial Typing" />
 
 ***"Time flies, art endures, life is short"***  
 
 **— Build your digital legacy as the emperors built Rome —**
 
 </div>
+
