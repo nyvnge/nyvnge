@@ -1,7 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&pause=1000&color=CD853F&center=true&vCenter=true&width=700&lines=SANDERSON+NYANGE;IMPERATOR+•+ARCHITECTUS+•+PHILOSOPHUS" alt="Imperial Typing" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&pause=1000&color=CD853F&center=true&vCenter=true&width=700&lines=Sanderson+Nyange;Stoic+•+Builder+•+Thinker" alt="Imperial Typing" />
+
 <div style="position: relative; display: inline-block; margin: 30px 0;">
+
   <div style="position: absolute; top: -25px; left: -25px; right: -25px; bottom: -25px; background: radial-gradient(circle, rgba(205, 133, 63, 0.8) 0%, rgba(139, 69, 19, 0.6) 30%, rgba(160, 82, 45, 0.4) 60%, rgba(210, 180, 140, 0.2) 100%); border-radius: 50%; filter: blur(15px); animation: imperialPulse 3s ease-in-out infinite;"></div>
   
   <div style="position: absolute; top: -15px; left: -15px; right: -15px; bottom: -15px; background: conic-gradient(from 0deg, #CD853F, #D2691E, #A0522D, #8B4513, #CD853F); border-radius: 50%; filter: blur(8px); animation: imperialRotate 4s linear infinite;"></div>
@@ -13,7 +16,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=130&section=header&text=MEDITATIONS%20IN%20CODE&fontSize=28&fontColor=8B4513&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=130&section=header&text=Philosophy%20in%20Code&fontSize=28&fontColor=8B4513&animation=twinkling" />
 
 </div>
 
@@ -37,32 +40,32 @@
 
 ---
 
-## ⚔️ **IMPERIUM TECHNOLOGICUM**
+## ⚔️ **Tech Stack**
 *The Arsenal of a Digital Stoic*
 
 <div align="center">
 
-### 🏺 **LINGUA FRANCA** *(Core Languages)*
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=8B4513)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=8B4513)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=8B4513)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8B4513)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=8B4513)
 
-### 🏛️ **ARCHITECTURA** *(Frameworks & Libraries)*
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=A0522D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=A0522D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=A0522D)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=A0522D)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=A0522D)
 
-### 🛡️ **INFRASTRUCTURE** *(Backend & Database)*
+### Backend & Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=CD853F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=CD853F)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=CD853F)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=CD853F)
 
-### ⚡ **IMPERIUM CLOUD** *(DevOps & Cloud)*
+### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=D2691E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=D2691E)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=D2691E)
@@ -74,7 +77,7 @@
 
 <div align="center">
 
-## 📊 **IMPERIUM METRICS**
+## 📊 **GitHub Stats**
 *The Emperor's Digital Dominion*
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nyvnge&show_icons=true&theme=dark&bg_color=0d1117&title_color=CD853F&text_color=DAA520&icon_color=A0522D&border_color=8B4513&hide_border=false" />
@@ -90,14 +93,14 @@
 
 <div align="center">
 
-## 🏺 **CODEX IMPERIALIS**
+## 🏺 **The Builder's Philosophy**
 *The Emperor's Engineering Principles*
 
 <table>
 <tr>
 <td align="center" width="25%" style="background: linear-gradient(45deg, #2F1B14, #1a0f0a); border: 2px solid #8B4513; border-radius: 10px;">
 
-**⚖️ DISCIPLINA**  
+**⚖️ Discipline**  
 *"Discipline is the soul of an army"*  
 Write code as if  
 carving marble
@@ -105,7 +108,7 @@ carving marble
 </td>
 <td align="center" width="25%" style="background: linear-gradient(45deg, #2F1B14, #1a0f0a); border: 2px solid #A0522D; border-radius: 10px;">
 
-**🧠 RATIO**  
+**🧠 Reason**  
 *"Reason rules all things"*  
 Logic before  
 emotion in every  
@@ -114,7 +117,7 @@ architectural decision
 </td>
 <td align="center" width="25%" style="background: linear-gradient(45deg, #2F1B14, #1a0f0a); border: 2px solid #CD853F; border-radius: 10px;">
 
-**🛡️ PERSEVERANTIA**  
+**🛡️ Perseverance**  
 *"Endure and persist"*  
 Every bug defeated  
 makes the empire  
@@ -123,7 +126,7 @@ stronger
 </td>
 <td align="center" width="25%" style="background: linear-gradient(45deg, #2F1B14, #1a0f0a); border: 2px solid #D2691E; border-radius: 10px;">
 
-**⚔️ VIRTUS**  
+**⚔️ Virtue**  
 *"Virtue is the only good"*  
 Build systems that  
 serve humanity,  
@@ -139,25 +142,24 @@ not ego
 
 <div align="center">
 
-## 🌐 **IMPERIUM DIGITALE**
+## 🌐 **Connect With Me**
 *Extend Your Dominion*
 
-[![Portfolio Imperialis](https://img.shields.io/badge/🏛️_PORTFOLIO-IMPERIALIS-8B4513?style=for-the-badge&labelColor=2F1B14&logo=safari&logoColor=DAA520)](https://your-portfolio-url.com)
-[![GitHub Colosseum](https://img.shields.io/badge/⚔️_GITHUB-COLOSSEUM-A0522D?style=for-the-badge&labelColor=2F1B14&logo=github&logoColor=DAA520)](https://github.com/nyvnge)  
-[![LinkedIn Forum](https://img.shields.io/badge/🏺_LINKEDIN-FORUM-CD853F?style=for-the-badge&labelColor=2F1B14&logo=linkedin&logoColor=DAA520)](https://linkedin.com/in/sanderson-nyange)
-[![Twitter Agora](https://img.shields.io/badge/🦅_TWITTER-AGORA-D2691E?style=for-the-badge&labelColor=2F1B14&logo=twitter&logoColor=DAA520)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/🏛️_Portfolio-8B4513?style=for-the-badge&labelColor=2F1B14&logo=safari&logoColor=DAA520)](https://your-portfolio-url.com)
+[![GitHub](https://img.shields.io/badge/⚔️_GitHub-A0522D?style=for-the-badge&labelColor=2F1B14&logo=github&logoColor=DAA520)](https://github.com/nyvnge)  
+[![LinkedIn](https://img.shields.io/badge/🏺_LinkedIn-CD853F?style=for-the-badge&labelColor=2F1B14&logo=linkedin&logoColor=DAA520)](https://linkedin.com/in/sanderson-nyange)
+[![Twitter](https://img.shields.io/badge/🦅_Twitter-D2691E?style=for-the-badge&labelColor=2F1B14&logo=twitter&logoColor=DAA520)](https://twitter.com/your-handle)
 
 ---
 
-### 👑 **IMPERIUM VISITORS**
-![Imperial Census](https://komarev.com/ghpvc/?username=nyvnge&color=CD853F&style=for-the-badge&label=Imperial+Visitors&labelColor=2F1B14)
+### 👑 **Profile Views**
+![Visitor Count](https://komarev.com/ghpvc/?username=nyvnge&color=CD853F&style=for-the-badge&label=Visitors&labelColor=2F1B14)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=120&section=footer&text=MEMENTO+MORI+•+MEMENTO+VIVERE&fontSize=24&fontColor=8B4513&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=120&section=footer&text=Craft%20Your%20Life%20as%20You%20Craft%20Your%20Code&fontSize=24&fontColor=8B4513&animation=twinkling" />
 
-***"Tempus fugit, ars longa, vita brevis"***  
-*"Time flees, art endures, life is short"*
+***"Time flies, art endures, life is short"***  
 
 **— Build your digital legacy as the emperors built Rome —**
 
