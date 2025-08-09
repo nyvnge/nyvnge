@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&pause=1000&color=CD853F&center=true&vCenter=true&width=700&lines=Sanderson+Nyange;Stoic+•+Builder+•+Thinker" alt="Imperial Typing" />
+
 
 <!-- Bronze & Black Animated Background Effect -->
 <div style="margin: 30px 0; width: 280px; height: 280px; border-radius: 50%; background: conic-gradient(from 0deg, #2F1B14, #8B4513, #CD853F, #D2691E, #A0522D, #2F1B14); animation: imperialRotate 8s linear infinite; box-shadow: 0 0 40px rgba(205, 133, 63, 0.6), 0 0 80px rgba(139, 69, 19, 0.4);">
@@ -10,12 +10,6 @@
 
 </div>
 
-<style>
-@keyframes imperialRotate {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-</style>
 
 ---
 
