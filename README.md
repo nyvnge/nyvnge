@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=D87B46&center=true&vCenter=true&width=600&lines=Sanderson+Nyange;Stoic+%E2%80%A2+Builder+%E2%80%A2+Thinker" alt="Typing SVG" />
 
-<img src="https://github.com/nyvnge/nyvnge/blob/main/101863068.png" width="200px" alt="Profile Logo" />
+<div style="position: relative; display: inline-block; margin: 20px 0;">
+  <div style="position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; background: radial-gradient(circle, rgba(216, 123, 70, 0.6) 0%, rgba(232, 179, 116, 0.4) 50%, rgba(196, 106, 53, 0.2) 100%); border-radius: 50%; filter: blur(8px); animation: pulse 2s infinite;"></div>
+  <div style="position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px; background: linear-gradient(45deg, #d87b46, #e8b374, #c46a35, #d87b46); border-radius: 50%; filter: blur(4px); animation: rotate 3s linear infinite;"></div>
+  <img src="https://github.com/nyvnge/nyvnge/blob/main/101863068.png" width="200px" alt="Marcus Aurelius Profile" style="position: relative; border-radius: 50%; border: 3px solid #d87b46; box-shadow: 0 0 20px rgba(216, 123, 70, 0.7), 0 0 40px rgba(232, 179, 116, 0.5), 0 0 60px rgba(196, 106, 53, 0.3);" />
+</div>
 
 <br/>
 
-<!-- Philosophy Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Philosophy%20in%20Code&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9&height=120&section=header&text=Philosophy%20in%20Code&fontSize=30&fontColor=FFD700&animation=fadeIn" />
 
 </div>
 
@@ -121,7 +123,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Craft%20Your%20Life%20as%20You%20Craft%20Your%20Code&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9&height=100&section=footer&text=Craft%20Your%20Life%20as%20You%20Craft%20Your%20Code&fontSize=20&fontColor=FFD700&animation=fadeIn" />
 
 *"The impediment to action advances action. What stands in the way becomes the way."*  
 **— Marcus Aurelius**
