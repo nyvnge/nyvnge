@@ -1,19 +1,14 @@
-<div align="center" style="position: relative; padding: 20px; border: 3px solid transparent; background: linear-gradient(#0d1117, #0d1117) padding-box, linear-gradient(45deg, rgba(205, 133, 63, 0.3), rgba(139, 69, 19, 0.4), rgba(160, 82, 45, 0.3), rgba(218, 165, 32, 0.2), rgba(205, 133, 63, 0.3)) border-box; border-radius: 15px; box-shadow: inset 0 0 20px rgba(205, 133, 63, 0.1), 0 0 30px rgba(139, 69, 19, 0.15);">
+<div align="center">
 
-<!-- Imperial Header with Copper/Bronze Theme -->
 
-<!-- Imperial Header with Copper/Bronze Theme -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&pause=1000&color=CD853F&center=true&vCenter=true&width=700&lines=Sanderson+Nyange;Stoic+•+Builder+•+Thinker" alt="Imperial Typing" />
 
-<!-- Majestic Marcus Aurelius with Divine Glow -->
 <div style="position: relative; display: inline-block; margin: 30px 0;">
-  <!-- Outer divine aura -->
+
   <div style="position: absolute; top: -25px; left: -25px; right: -25px; bottom: -25px; background: radial-gradient(circle, rgba(205, 133, 63, 0.8) 0%, rgba(139, 69, 19, 0.6) 30%, rgba(160, 82, 45, 0.4) 60%, rgba(210, 180, 140, 0.2) 100%); border-radius: 50%; filter: blur(15px); animation: imperialPulse 3s ease-in-out infinite;"></div>
   
-  <!-- Middle bronze ring -->
   <div style="position: absolute; top: -15px; left: -15px; right: -15px; bottom: -15px; background: conic-gradient(from 0deg, #CD853F, #D2691E, #A0522D, #8B4513, #CD853F); border-radius: 50%; filter: blur(8px); animation: imperialRotate 4s linear infinite;"></div>
   
-  <!-- Inner golden highlight -->
   <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(45deg, #DAA520, #B8860B, #CD853F, #DAA520); border-radius: 50%; filter: blur(4px); animation: imperialShimmer 2s ease-in-out infinite alternate;"></div>
   
   <img src="https://github.com/nyvnge/nyvnge/blob/main/101863068.png" width="220px" alt="Marcus Aurelius Imperator" style="position: relative; border-radius: 50%; border: 4px solid #8B4513; box-shadow: 0 0 30px rgba(205, 133, 63, 0.9), 0 0 60px rgba(139, 69, 19, 0.7), 0 0 90px rgba(160, 82, 45, 0.5), inset 0 0 20px rgba(218, 165, 32, 0.3);" />
@@ -21,7 +16,6 @@
 
 <br/>
 
-<!-- Imperial Wave Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=130&section=header&text=Philosophy%20in%20Code&fontSize=28&fontColor=8B4513&animation=twinkling" />
 
 </div>
@@ -30,101 +24,11 @@
 
 <div align="center">
 
-## 🪙 **Imperial Currency System**
-*Earned Through Digital Conquests*
-
-<!-- Roman Coins for Achievements -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
-  
-  <!-- Aureus Coin - Highest Achievement -->
-  <div style="text-align: center; margin: 10px;">
-    <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(45deg, #FFD700, #FFA500, #DAA520); border: 3px solid #8B4513; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #2F1B14; font-size: 12px; box-shadow: 0 4px 15px rgba(218, 165, 32, 0.5); animation: coinSpin 4s linear infinite; position: relative; margin: 0 auto;">
-      <div style="text-align: center;">
-        <div>AUREUS</div>
-        <div style="font-size: 8px;">100+</div>
-        <div style="font-size: 8px;">COMMITS</div>
-      </div>
-    </div>
-    <small style="display: block; margin-top: 8px; color: #CD853F;"><strong>Golden Aureus</strong><br>Master Builder</small>
-  </div>
-  
-  <!-- Denarius Coin - Mid Achievement -->
-  <div style="text-align: center; margin: 10px;">
-    <div style="width: 70px; height: 70px; border-radius: 50%; background: linear-gradient(45deg, #C0C0C0, #A9A9A9, #808080); border: 3px solid #8B4513; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #2F1B14; font-size: 11px; box-shadow: 0 4px 15px rgba(192, 192, 192, 0.5); animation: coinSpin 3s linear infinite; position: relative; margin: 0 auto;">
-      <div style="text-align: center;">
-        <div>DENARIUS</div>
-        <div style="font-size: 8px;">50+</div>
-        <div style="font-size: 8px;">REPOS</div>
-      </div>
-    </div>
-    <small style="display: block; margin-top: 8px; color: #A0522D;"><strong>Silver Denarius</strong><br>Code Architect</small>
-  </div>
-  
-  <!-- Sestertius Coin - Achievement -->
-  <div style="text-align: center; margin: 10px;">
-    <div style="width: 65px; height: 65px; border-radius: 50%; background: linear-gradient(45deg, #CD853F, #A0522D, #8B4513); border: 3px solid #8B4513; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #DAA520; font-size: 10px; box-shadow: 0 4px 15px rgba(205, 133, 63, 0.5); animation: coinSpin 3.5s linear infinite; position: relative; margin: 0 auto;">
-      <div style="text-align: center;">
-        <div>SESTERTIUS</div>
-        <div style="font-size: 7px;">10+</div>
-        <div style="font-size: 7px;">PROJECTS</div>
-      </div>
-    </div>
-    <small style="display: block; margin-top: 8px; color: #8B4513;"><strong>Bronze Sestertius</strong><br>Project Leader</small>
-  </div>
-  
-  <!-- As Coin - Basic Achievement -->
-  <div style="text-align: center; margin: 10px;">
-    <div style="width: 60px; height: 60px; border-radius: 50%; background: linear-gradient(45deg, #8B4513, #A0522D, #654321); border: 3px solid #8B4513; display: flex; align-items: center; justify-content: center; font-weight: bold; color: #CD853F; font-size: 10px; box-shadow: 0 4px 15px rgba(139, 69, 19, 0.5); animation: coinSpin 2.5s linear infinite; position: relative; margin: 0 auto;">
-      <div style="text-align: center;">
-        <div>AS</div>
-        <div style="font-size: 7px;">1+</div>
-        <div style="font-size: 7px;">YEAR</div>
-      </div>
-    </div>
-    <small style="display: block; margin-top: 8px; color: #654321;"><strong>Copper As</strong><br>Code Citizen</small>
-  </div>
-  
-</div>
-
-*"Like the denarius bears Caesar's image, let your code bear the mark of excellence"*
-
-</div>
-
-<div align="center">
-
 ### 🏛️ **THE FOUR PILLARS OF STOIC ENGINEERING**
-
-<!-- Roman Coins for Each Virtue -->
-<div align="center" style="margin: 20px 0;">
-  <table>
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <div style="position: relative; display: inline-block;">
-          <img src="https://img.shields.io/badge/⚖️-SAPIENTIA-CD853F?style=for-the-badge&labelColor=2F1B14&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCIgZmlsbD0iI0NEODUzRiI+PGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjMiIHN0cm9rZT0iIzhCNDUxMyIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iMjUiIHk9IjMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzJGMUIxNCI+U1BBPC90ZXh0Pjwvc3ZnPg==" />
-          <br><small><strong>WISDOM</strong></small>
-        </div>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <div style="position: relative; display: inline-block;">
-          <img src="https://img.shields.io/badge/⚔️-FORTITUDO-A0522D?style=for-the-badge&labelColor=2F1B14&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCIgZmlsbD0iI0EwNTIyRCI+PGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjMiIHN0cm9rZT0iIzhCNDUxMyIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iMjUiIHk9IjMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzJGMUIxNCI+Rk9SPC90ZXh0Pjwvc3ZnPg==" />
-          <br><small><strong>COURAGE</strong></small>
-        </div>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <div style="position: relative; display: inline-block;">
-          <img src="https://img.shields.io/badge/🛡️-TEMPERANTIA-8B4513?style=for-the-badge&labelColor=2F1B14&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCIgZmlsbD0iIzhCNDUxMyI+PGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjMiIHN0cm9rZT0iIzhCNDUxMyIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iMjUiIHk9IjMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI0RBQTUyMCI+VEVNPC90ZXh0Pjwvc3ZnPg==" />
-          <br><small><strong>TEMPERANCE</strong></small>
-        </div>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <div style="position: relative; display: inline-block;">
-          <img src="https://img.shields.io/badge/⚖️-IUSTITIA-D2691E?style=for-the-badge&labelColor=2F1B14&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCIgZmlsbD0iI0QyNjkxRSI+PGNpcmNsZSBjeD0iMjUiIGN5PSIyNSIgcj0iMjMiIHN0cm9rZT0iIzhCNDUxMyIgc3Ryb2tlLXdpZHRoPSIyIi8+PHRleHQgeD0iMjUiIHk9IjMwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjE0IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzJGMUIxNCI+SlVTPC90ZXh0Pjwvc3ZnPg==" />
-          <br><small><strong>JUSTICE</strong></small>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://img.shields.io/badge/SAPIENTIA-Wisdom-CD853F?style=for-the-badge&labelColor=2F1B14&color=CD853F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0yIDMgMjAgMTQtOCA0LTEyLTEweiI+PC9wYXRoPjxwYXRoIGQ9Ik0yMiAzdjE4Ij48L3BhdGg+PC9zdmc+" />
+<img src="https://img.shields.io/badge/FORTITUDO-Courage-A0522D?style=for-the-badge&labelColor=2F1B14&color=A0522D&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0xNS40NzQgMy43MzQgMi4wNzUtMi4wNzVhMS4zMTIgMS4zMTIgMCAwIDEgMS44NTggMGwxLjQxNCAxLjQxNGExLjMxMiAxLjMxMiAwIDAgMSAwIDEuODU4bC0yLjA3NSAyLjA3NSI+PC9wYXRoPjxwYXRoIGQ9Im0xOSA5LTQtNC00IDQtMTIgMTJ2NGg0bDEyLTEyeiI+PC9wYXRoPjxwYXRoIGQ9Im0yIDIxIDQtNCI+PC9wYXRoPjwvc3ZnPg==" />
+<img src="https://img.shields.io/badge/TEMPERANTIA-Self_Control-8B4513?style=for-the-badge&labelColor=2F1B14&color=8B4513&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48cGF0aCBkPSJtMTIgNiA0IDQtNCA0Ii8+PHBhdGggZD0iTTggMTJoOCIvPjwvc3ZnPg==" />
+<img src="https://img.shields.io/badge/IUSTITIA-Justice-D2691E?style=for-the-badge&labelColor=2F1B14&color=D2691E&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im05IDEyIDIgMiA0LTQiPjwvcGF0aD48cGF0aCBkPSJNMjEgMTJjLjU1Mi0uNDcyIDEtMS4wNzIgMS0xLjc1IDAtMi4zNDktMi41MDEtNC4yNS01LjUtNC4yNS0xLjczNCAwLTMuNDEuNDEyLTQuNSAxLjEtMS4wOS0uNjg4LTIuNzY2LTEuMS00LjUtMS4xQzQuNTAxIDYgMiA3LjkwMSAyIDEwLjI1YzAgLjY3OC40NDggMS4yNzggMSAxLjc1IiAvPjxwYXRoIGQ9Im0yMSAxNi0uNTQ0LjU0NGEyIDIgMCAwIDEtMi44MjgtMS4xMzRBNCA0IDAgMCAwIDEyIDE0YTQgNCAwIDAgMC01LjYyOCAxLjQxIDIgMiAwIDAgMS0yLjgyOCAxLjEzNEwzIDE2Ii8+PHBhdGggZD0iTTUgMTZjMCAyLjQxNCA0IDQgNyA0czctMS41ODYgNy00Ii8+PC9zdmc+" />
 
 <br/>
 
@@ -260,37 +164,3 @@ not ego
 **— Build your digital legacy as the emperors built Rome —**
 
 </div>
-
-<!-- Subtle Roman Coin Corner Decorations -->
-<div style="position: fixed; top: 10px; left: 10px; width: 40px; height: 40px; border-radius: 50%; background: radial-gradient(circle, rgba(205, 133, 63, 0.1), rgba(139, 69, 19, 0.05)); border: 1px solid rgba(205, 133, 63, 0.2); opacity: 0.3; pointer-events: none;"></div>
-<div style="position: fixed; top: 10px; right: 10px; width: 40px; height: 40px; border-radius: 50%; background: radial-gradient(circle, rgba(218, 165, 32, 0.1), rgba(160, 82, 45, 0.05)); border: 1px solid rgba(218, 165, 32, 0.2); opacity: 0.3; pointer-events: none;"></div>
-<div style="position: fixed; bottom: 10px; left: 10px; width: 40px; height: 40px; border-radius: 50%; background: radial-gradient(circle, rgba(160, 82, 45, 0.1), rgba(139, 69, 19, 0.05)); border: 1px solid rgba(160, 82, 45, 0.2); opacity: 0.3; pointer-events: none;"></div>
-<div style="position: fixed; bottom: 10px; right: 10px; width: 40px; height: 40px; border-radius: 50%; background: radial-gradient(circle, rgba(205, 133, 63, 0.1), rgba(139, 69, 19, 0.05)); border: 1px solid rgba(205, 133, 63, 0.2); opacity: 0.3; pointer-events: none;"></div>
-
-<style>
-@keyframes imperialPulse {
-  0%, 100% { transform: scale(1); opacity: 0.8; }
-  50% { transform: scale(1.05); opacity: 1; }
-}
-
-@keyframes imperialRotate {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-@keyframes coinSpin {
-  0% { transform: rotateY(0deg); }
-  50% { transform: rotateY(180deg); }
-  100% { transform: rotateY(360deg); }
-}
-
-@keyframes subtleGlow {
-  0%, 100% { box-shadow: inset 0 0 20px rgba(205, 133, 63, 0.1), 0 0 30px rgba(139, 69, 19, 0.15); }
-  50% { box-shadow: inset 0 0 25px rgba(205, 133, 63, 0.15), 0 0 35px rgba(139, 69, 19, 0.2); }
-}
-
-/* Roman Coin Border Animation */
-.roman-border {
-  animation: subtleGlow 4s ease-in-out infinite;
-}
-</style>
