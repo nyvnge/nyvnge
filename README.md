@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=130&section=header&text=Philosophy%20in%20Code&fontSize=28&fontColor=8B4513&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=130&section=header" />
 
 </div>
 
