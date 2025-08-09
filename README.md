@@ -2,13 +2,16 @@
 
 <img src="https://github.com/nyvnge/nyvnge/blob/main/101863068.png" width="200px" alt="Profile Logo" />
 
-# **Sanderson Nyange**
-### *Stoic • Builder • Thinker*
+<!-- Name -->
+<h1 style="color:#d87b46;">Sanderson Nyange</h1>
+<h3 style="color:#e8b374; font-weight:normal;"><i>Stoic • Builder • Thinker</i></h3>
 
 ---
 
-> *"You have power over your mind — not outside events. Realize this, and you will find strength."*  
-> — Marcus Aurelius
+<blockquote style="color:#c46a35; font-style:italic; font-size:1.1em;">
+"You have power over your mind — not outside events. Realize this, and you will find strength."
+<br>— Marcus Aurelius
+</blockquote>
 
 ---
 
