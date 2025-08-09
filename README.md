@@ -164,20 +164,3 @@ not ego
 **— Build your digital legacy as the emperors built Rome —**
 
 </div>
-
-<style>
-@keyframes imperialPulse {
-  0%, 100% { transform: scale(1); opacity: 0.8; }
-  50% { transform: scale(1.05); opacity: 1; }
-}
-
-@keyframes imperialRotate {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-@keyframes imperialShimmer {
-  0% { opacity: 0.7; }
-  100% { opacity: 1; }
-}
-</style>
