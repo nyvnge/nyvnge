@@ -1,16 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=D87B46&center=true&vCenter=true&width=600&lines=Sanderson+Nyange;Stoic+%E2%80%A2+Builder+%E2%80%A2+Thinker" alt="Typing SVG" />
-
-<div style="position: relative; display: inline-block; margin: 20px 0;">
-  <div style="position: absolute; top: -10px; left: -10px; right: -10px; bottom: -10px; background: radial-gradient(circle, rgba(216, 123, 70, 0.6) 0%, rgba(232, 179, 116, 0.4) 50%, rgba(196, 106, 53, 0.2) 100%); border-radius: 50%; filter: blur(8px); animation: pulse 2s infinite;"></div>
-  <div style="position: absolute; top: -5px; left: -5px; right: -5px; bottom: -5px; background: linear-gradient(45deg, #d87b46, #e8b374, #c46a35, #d87b46); border-radius: 50%; filter: blur(4px); animation: rotate 3s linear infinite;"></div>
-  <img src="https://github.com/nyvnge/nyvnge/blob/main/101863068.png" width="200px" alt="Marcus Aurelius Profile" style="position: relative; border-radius: 50%; border: 3px solid #d87b46; box-shadow: 0 0 20px rgba(216, 123, 70, 0.7), 0 0 40px rgba(232, 179, 116, 0.5), 0 0 60px rgba(196, 106, 53, 0.3);" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&pause=1000&color=CD853F&center=true&vCenter=true&width=700&lines=SANDERSON+NYANGE;IMPERATOR+•+ARCHITECTUS+•+PHILOSOPHUS" alt="Imperial Typing" />
+<div style="position: relative; display: inline-block; margin: 30px 0;">
+  <div style="position: absolute; top: -25px; left: -25px; right: -25px; bottom: -25px; background: radial-gradient(circle, rgba(205, 133, 63, 0.8) 0%, rgba(139, 69, 19, 0.6) 30%, rgba(160, 82, 45, 0.4) 60%, rgba(210, 180, 140, 0.2) 100%); border-radius: 50%; filter: blur(15px); animation: imperialPulse 3s ease-in-out infinite;"></div>
+  
+  <div style="position: absolute; top: -15px; left: -15px; right: -15px; bottom: -15px; background: conic-gradient(from 0deg, #CD853F, #D2691E, #A0522D, #8B4513, #CD853F); border-radius: 50%; filter: blur(8px); animation: imperialRotate 4s linear infinite;"></div>
+  
+  <div style="position: absolute; top: -8px; left: -8px; right: -8px; bottom: -8px; background: linear-gradient(45deg, #DAA520, #B8860B, #CD853F, #DAA520); border-radius: 50%; filter: blur(4px); animation: imperialShimmer 2s ease-in-out infinite alternate;"></div>
+  
+  <img src="https://github.com/nyvnge/nyvnge/blob/main/101863068.png" width="220px" alt="Marcus Aurelius Imperator" style="position: relative; border-radius: 50%; border: 4px solid #8B4513; box-shadow: 0 0 30px rgba(205, 133, 63, 0.9), 0 0 60px rgba(139, 69, 19, 0.7), 0 0 90px rgba(160, 82, 45, 0.5), inset 0 0 20px rgba(218, 165, 32, 0.3);" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9&height=120&section=header&text=Philosophy%20in%20Code&fontSize=30&fontColor=FFD700&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=130&section=header&text=MEDITATIONS%20IN%20CODE&fontSize=28&fontColor=8B4513&animation=twinkling" />
 
 </div>
 
@@ -18,41 +21,52 @@
 
 <div align="center">
 
-### 💭 **Daily Stoic**
-<img src="https://img.shields.io/badge/💪-Discipline-d87b46?style=for-the-badge&labelColor=2d1810&color=d87b46" />
-<img src="https://img.shields.io/badge/🧠-Wisdom-e8b374?style=for-the-badge&labelColor=2d1810&color=e8b374" />
-<img src="https://img.shields.io/badge/⚖️-Justice-c46a35?style=for-the-badge&labelColor=2d1810&color=c46a35" />
-<img src="https://img.shields.io/badge/💎-Courage-8b4513?style=for-the-badge&labelColor=2d1810&color=8b4513" />
+### 🏛️ **THE FOUR PILLARS OF STOIC ENGINEERING**
+<img src="https://img.shields.io/badge/SAPIENTIA-Wisdom-CD853F?style=for-the-badge&labelColor=2F1B14&color=CD853F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0yIDMgMjAgMTQtOCA0LTEyLTEweiI+PC9wYXRoPjxwYXRoIGQ9Ik0yMiAzdjE4Ij48L3BhdGg+PC9zdmc+" />
+<img src="https://img.shields.io/badge/FORTITUDO-Courage-A0522D?style=for-the-badge&labelColor=2F1B14&color=A0522D&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im0xNS40NzQgMy43MzQgMi4wNzUtMi4wNzVhMS4zMTIgMS4zMTIgMCAwIDEgMS44NTggMGwxLjQxNCAxLjQxNGExLjMxMiAxLjMxMiAwIDAgMSAwIDEuODU4bC0yLjA3NSAyLjA3NSI+PC9wYXRoPjxwYXRoIGQ9Im0xOSA5LTQtNC00IDQtMTIgMTJ2NGg0bDEyLTEyeiI+PC9wYXRoPjxwYXRoIGQ9Im0yIDIxIDQtNCI+PC9wYXRoPjwvc3ZnPg==" />
+<img src="https://img.shields.io/badge/TEMPERANTIA-Self_Control-8B4513?style=for-the-badge&labelColor=2F1B14&color=8B4513&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIj48L2NpcmNsZT48cGF0aCBkPSJtMTIgNiA0IDQtNCA0Ii8+PHBhdGggZD0iTTggMTJoOCIvPjwvc3ZnPg==" />
+<img src="https://img.shields.io/badge/IUSTITIA-Justice-D2691E?style=for-the-badge&labelColor=2F1B14&color=D2691E&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Im05IDEyIDIgMiA0LTQiPjwvcGF0aD48cGF0aCBkPSJNMjEgMTJjLjU1Mi0uNDcyIDEtMS4wNzIgMS0xLjc1IDAtMi4zNDktMi41MDEtNC4yNS01LjUtNC4yNS0xLjczNCAwLTMuNDEuNDEyLTQuNSAxLjEtMS4wOS0uNjg4LTIuNzY2LTEuMS00LjUtMS4xQzQuNTAxIDYgMiA3LjkwMSAyIDEwLjI1YzAgLjY3OC40NDggMS4yNzggMSAxLjc1IiAvPjxwYXRoIGQ9Im0yMSAxNi0uNTQ0LjU0NGEyIDIgMCAwIDEtMi44MjgtMS4xMzRBNCA0IDAgMCAwIDEyIDE0YTQgNCAwIDAgMC01LjYyOCAxLjQxIDIgMiAwIDAgMS0yLjgyOCAxLjEzNEwzIDE2Ii8+PHBhdGggZD0iTTUgMTZjMCAyLjQxNCA0IDQgNyA0czctMS41ODYgNy00Ii8+PC9zdmc+" />
 
-> *"You have power over your mind — not outside events. Realize this, and you will find strength."*  
+<br/>
+
+> ***"Imperium in se ipso habet qui se ipso fruitur"***  
+> *"He is his own master who enjoys his own self"*  
 > **— Marcus Aurelius**
 
 </div>
 
 ---
 
-## 🛠️ **Arsenal of Tools**
+## ⚔️ **IMPERIUM TECHNOLOGICUM**
+*The Arsenal of a Digital Stoic*
 
 <div align="center">
 
-### Frontend Forge
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 🏺 **LINGUA FRANCA** *(Core Languages)*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=8B4513)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=8B4513)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=8B4513)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8B4513)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=8B4513)
 
-### Backend Bastion  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🏛️ **ARCHITECTURA** *(Frameworks & Libraries)*
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=A0522D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=A0522D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=A0522D)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=A0522D)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=A0522D)
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🛡️ **INFRASTRUCTURE** *(Backend & Database)*
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=CD853F)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=CD853F)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=CD853F)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=CD853F)
+
+### ⚡ **IMPERIUM CLOUD** *(DevOps & Cloud)*
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=D2691E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=D2691E)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=D2691E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=D2691E)
 
 </div>
 
@@ -60,14 +74,15 @@
 
 <div align="center">
 
-## 📊 **GitHub Metrics**
+## 📊 **IMPERIUM METRICS**
+*The Emperor's Digital Dominion*
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyvnge&show_icons=true&theme=dark&bg_color=0d1117&title_color=d87b46&text_color=ffffff&icon_color=e8b374&border_color=c46a35" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyvnge&layout=compact&theme=dark&bg_color=0d1117&title_color=d87b46&text_color=ffffff&border_color=c46a35" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=nyvnge&show_icons=true&theme=dark&bg_color=0d1117&title_color=CD853F&text_color=DAA520&icon_color=A0522D&border_color=8B4513&hide_border=false" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyvnge&layout=compact&theme=dark&bg_color=0d1117&title_color=CD853F&text_color=DAA520&border_color=8B4513&hide_border=false" />
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyvnge&theme=dark&background=0d1117&ring=d87b46&fire=e8b374&currStreakLabel=c46a35&border=c46a35)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nyvnge&theme=dark&background=0d1117&ring=CD853F&fire=DAA520&currStreakLabel=A0522D&border=8B4513&stroke=D2691E)
 
 </div>
 
@@ -75,29 +90,44 @@
 
 <div align="center">
 
-## 🏛️ **The Builder's Creed**
+## 🏺 **CODEX IMPERIALIS**
+*The Emperor's Engineering Principles*
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%" style="background: linear-gradient(45deg, #2F1B14, #1a0f0a); border: 2px solid #8B4513; border-radius: 10px;">
 
-**⚔️ DISCIPLINE**  
-*Build with intention,*  
-*code with purpose*
-
-</td>
-<td align="center" width="33%">
-
-**📚 GROWTH**  
-*Every bug is a teacher,*  
-*every project a lesson*
+**⚖️ DISCIPLINA**  
+*"Discipline is the soul of an army"*  
+Write code as if  
+carving marble
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%" style="background: linear-gradient(45deg, #2F1B14, #1a0f0a); border: 2px solid #A0522D; border-radius: 10px;">
 
-**🛡️ RESILIENCE**  
-*When systems fail,*  
-*we rebuild stronger*
+**🧠 RATIO**  
+*"Reason rules all things"*  
+Logic before  
+emotion in every  
+architectural decision
+
+</td>
+<td align="center" width="25%" style="background: linear-gradient(45deg, #2F1B14, #1a0f0a); border: 2px solid #CD853F; border-radius: 10px;">
+
+**🛡️ PERSEVERANTIA**  
+*"Endure and persist"*  
+Every bug defeated  
+makes the empire  
+stronger
+
+</td>
+<td align="center" width="25%" style="background: linear-gradient(45deg, #2F1B14, #1a0f0a); border: 2px solid #D2691E; border-radius: 10px;">
+
+**⚔️ VIRTUS**  
+*"Virtue is the only good"*  
+Build systems that  
+serve humanity,  
+not ego
 
 </td>
 </tr>
@@ -109,23 +139,43 @@
 
 <div align="center">
 
-## 🌐 **Digital Presence**
+## 🌐 **IMPERIUM DIGITALE**
+*Extend Your Dominion*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nyvnge)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanderson-nyange)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
----
-
-### 📈 **Profile Views**
-![Profile Views](https://komarev.com/ghpvc/?username=nyvnge&color=d87b46&style=for-the-badge&label=Visitors)
+[![Portfolio Imperialis](https://img.shields.io/badge/🏛️_PORTFOLIO-IMPERIALIS-8B4513?style=for-the-badge&labelColor=2F1B14&logo=safari&logoColor=DAA520)](https://your-portfolio-url.com)
+[![GitHub Colosseum](https://img.shields.io/badge/⚔️_GITHUB-COLOSSEUM-A0522D?style=for-the-badge&labelColor=2F1B14&logo=github&logoColor=DAA520)](https://github.com/nyvnge)  
+[![LinkedIn Forum](https://img.shields.io/badge/🏺_LINKEDIN-FORUM-CD853F?style=for-the-badge&labelColor=2F1B14&logo=linkedin&logoColor=DAA520)](https://linkedin.com/in/sanderson-nyange)
+[![Twitter Agora](https://img.shields.io/badge/🦅_TWITTER-AGORA-D2691E?style=for-the-badge&labelColor=2F1B14&logo=twitter&logoColor=DAA520)](https://twitter.com/your-handle)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,7,8,9&height=100&section=footer&text=Craft%20Your%20Life%20as%20You%20Craft%20Your%20Code&fontSize=20&fontColor=FFD700&animation=fadeIn" />
+### 👑 **IMPERIUM VISITORS**
+![Imperial Census](https://komarev.com/ghpvc/?username=nyvnge&color=CD853F&style=for-the-badge&label=Imperial+Visitors&labelColor=2F1B14)
 
-*"The impediment to action advances action. What stands in the way becomes the way."*  
-**— Marcus Aurelius**
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17&height=120&section=footer&text=MEMENTO+MORI+•+MEMENTO+VIVERE&fontSize=24&fontColor=8B4513&animation=twinkling" />
+
+***"Tempus fugit, ars longa, vita brevis"***  
+*"Time flees, art endures, life is short"*
+
+**— Build your digital legacy as the emperors built Rome —**
 
 </div>
+
+<style>
+@keyframes imperialPulse {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.05); opacity: 1; }
+}
+
+@keyframes imperialRotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes imperialShimmer {
+  0% { opacity: 0.7; }
+  100% { opacity: 1; }
+}
+</style>
