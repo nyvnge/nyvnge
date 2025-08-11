@@ -130,7 +130,6 @@ not ego
 <div align="center">
 
 ## 🌐 **Connect With Me**
-*Extend Your Dominion*
 
 [![Portfolio](https://img.shields.io/badge/🏛️_Portfolio-8B4513?style=for-the-badge&labelColor=2F1B14&logo=safari&logoColor=DAA520)](https://your-portfolio-url.com)
 [![GitHub](https://img.shields.io/badge/⚔️_GitHub-A0522D?style=for-the-badge&labelColor=2F1B14&logo=github&logoColor=DAA520)](https://github.com/nyvnge)  
