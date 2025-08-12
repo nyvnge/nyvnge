@@ -65,7 +65,6 @@
 <div align="center">
 
 ## 📊 **GitHub Stats**
-*The Emperor's Digital Dominion*
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nyvnge&show_icons=true&theme=dark&bg_color=0d1117&title_color=CD853F&text_color=DAA520&icon_color=A0522D&border_color=8B4513&hide_border=false" />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyvnge&layout=compact&theme=dark&bg_color=0d1117&title_color=CD853F&text_color=DAA520&border_color=8B4513&hide_border=false" />
