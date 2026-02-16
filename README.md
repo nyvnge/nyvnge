@@ -1,8 +1,4 @@
-# 🏛️ Sanderson Nyange
-
-> *"Imperium in se ipso habet qui se ipso fruitur"* — Seneca
-
----
+<h1 style="color: #CD853F;">Sanderson Nyange</h1>
 
 ## 🌐 **Connect With Me**
 
@@ -14,5 +10,3 @@
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=nyvnge&color=CD853F&style=for-the-badge&label=Visitors&labelColor=2F1B14)
-
----
