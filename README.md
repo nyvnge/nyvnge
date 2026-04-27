@@ -1,6 +1,5 @@
 ![Sanderson Nyange](name-header.png)
 
-Software Engineer · Nairobi
 
 ---
 
